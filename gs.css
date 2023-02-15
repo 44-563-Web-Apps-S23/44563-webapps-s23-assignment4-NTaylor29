@@ -1,0 +1,9 @@
+.speech {font-family: 'Trebuchet MS', sans-serif; font-size:16; color:black }
+.direction{font-family: 'Arial Narrow', sans-serif; font_size:20; color:black; 
+    background: lightblue;}
+.name{}
+
+.mrsdelane{color: pink}
+.mrquirke{color:red}
+
+p:hover{background: darkblue; color:bisque}
