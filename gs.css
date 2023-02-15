@@ -3,7 +3,7 @@
     background: lightblue;}
 .name{}
 
-.mrsdelane{color: pink}
+.mrsdelane{color: blue}
 .mrquirke{color:red}
 
-p:hover{background: darkblue; color:bisque}
+p:hover{background: rgb(9, 0, 139); color:rgb(250, 250, 250)}
