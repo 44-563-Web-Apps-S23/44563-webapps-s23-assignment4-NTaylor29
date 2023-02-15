@@ -1,0 +1,21 @@
+.speech {font-family: 'Trebuchet MS', sans-serif; font-size:16; color:black }
+.direction{font-family: 'Arial Narrow', sans-serif; font-size:20; color:black; 
+    background: lightblue;}
+
+.mrsdelane{color: blue}
+.mrquirke{color:red}
+.fardy{color:rgb(71, 161, 53)}
+
+p:hover{background: rgb(9, 0, 139); color:rgb(250, 250, 250)}
+
+table{border: 3px double; overflow: auto;
+    border-collapse: separate; padding: 0;}
+table.collapsing { border: solid 3px;
+    border-collapse: collapse;
+    outline: solid 2px;}
+td, th {border: solid 1px;
+    text-align: center;}
+tr {background-color:rgb(229, 231, 75) ;}
+tr:nth-child(even) {background-color: #daa516;}
+
+h4:hover{text-shadow: 2px 2px 5px rgb(255, 251, 0); border:dashed;}
