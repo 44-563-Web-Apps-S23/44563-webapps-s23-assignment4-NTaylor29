@@ -17,3 +17,5 @@ td, th {border: solid 1px;
     text-align: center;}
 tr {background-color:rgb(229, 231, 75) ;}
 tr:nth-child(even) {background-color: #daa516;}
+
+h4:hover{text-shadow: 2px 2px 5px rgb(255, 251, 0); border:dashed;}
